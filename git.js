@@ -12,5 +12,3 @@ function test(params) {
 }
 
 // pei pei go go !!!
-
-// test
